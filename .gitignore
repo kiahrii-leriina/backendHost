@@ -1,0 +1,35 @@
+# Maven build directory
+
+/target/
+
+
+# Eclipse/STS project files
+
+*.classpath
+
+*.project
+
+*.settings/
+
+
+# Logs
+
+*.log
+
+
+# OS-specific files
+
+.DS_Store
+
+Thumbs.db
+
+
+# Temporary files
+
+*.tmp
+
+
+# IDE-specific folders
+
+bin/
+
